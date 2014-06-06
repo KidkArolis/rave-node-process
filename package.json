@@ -1,0 +1,40 @@
+{
+  "name": "rave-node-process",
+  "version": "0.1.0",
+  "description": "Adds a window.process object that shims some of node's global.process functionality",
+  "main": "rave.js",
+  "rave": "rave",
+  "keywords": [
+    "rave",
+    "rave-extension",
+    "node",
+    "commonjs",
+    "process"
+  ],
+  "peerDependencies": {
+    "rave": "~0.1"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KidkArolis/rave-node-process/issues"
+  },
+  "homepage": "https://github.com/KidkArolis/rave-node-process",
+  "contributors": [
+    {
+      "name": "Karolis Narkevicius"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:KidkArolis/rave-node-process.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "process": "^0.7.0"
+  }
+}
