@@ -1,6 +1,6 @@
 # rave-node-process
 
-Install this into your `rave` project if you want to use some modules from npm that assume node environment and use the `process` global (e.g. `react` module). Check out the [source of `node-process`](https://github.com/defunctzombie/node-process/blob/master/browser.js) module to see which bits of the process are supported.
+Install this into your `rave` project if you want to use some modules from npm that assume node environment and use the `process` global (e.g. `react` module). Check out the [source of `node-process`](https://github.com/defunctzombie/node-process/blob/master/browser.js) module to see which bits of `process` are supported.
 
 ## Usage
 
