@@ -1,6 +1,6 @@
 {
   "name": "rave-node-process",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Adds a window.process object that shims some of node's global.process functionality",
   "main": "rave.js",
   "rave": "rave",
